@@ -2,8 +2,7 @@
 
 Welcome to the Grocery Shop app repository! This Flutter app provides a clean and aesthetic shopping experience for buying groceries.
 
-![Flutter!](/https://dev-pro-three.vercel.app/assets/flutter-fdbd2d69.webp)
-
+![Flutter!](/assets/flutter-fdbd2d69.webp)
 
 ## Features
 
